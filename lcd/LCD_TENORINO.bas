@@ -1,4 +1,4 @@
-
+' TENORINO Xtal = 20  
 ' CONFIGURACAO LCD QL200
 ' COMO USAR
 ' Include "lcd/LCD_TENORINO.bas" 
