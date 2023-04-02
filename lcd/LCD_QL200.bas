@@ -1,4 +1,4 @@
-
+' QL200 Xtal = 4
 ' CONFIGURACAO LCD QL200
 ' COMO USAR
 ' Include "lcd/QL200.bas" 
