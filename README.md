@@ -4,6 +4,7 @@
 #### VARIÁVEIS
 ```
 # Dim Cat as Bit          ' Create a single bit variable (0 or 1)
+## (0 ou 1) 1 byte de RAM para cada variável de 8 bits criada.
 # Dim Dog as Byte         ' Create an 8-bit unsigned variable (0 to 255)
 # Dim Rat as Word         ' Create a 16-bit unsigned variable (0 to 65535)
 # Dim Lrg_Rat as Dword    ' Create a 32-bit unsigned variable (0 to 4294967295)
